@@ -1,0 +1,5 @@
+wc [file]
+
+returns line, word and character count of [file]
+
+-l returns just the line count
