@@ -1,0 +1,3 @@
+grep [regular expression] [files]
+
+searches for [regular expression] within the files in [files] and outputs instances found
