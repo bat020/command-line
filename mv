@@ -1,0 +1,3 @@
+mv [file] [directory]
+
+moves [file] to [directory], ie copies it there and deletes the original
